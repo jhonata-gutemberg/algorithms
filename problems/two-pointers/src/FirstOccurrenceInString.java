@@ -2,15 +2,13 @@ class FirstOccurrenceInString {
     public int strStr(String haystack, String needle) {
         int n = haystack.length();
         int m = needle.length();
-        for (int i = 0; i < n - m + 1; i++) {
-            int j = 0;
-
-            while (j < m && haystack.toCharArray()[i + j] == needle.toCharArray()[j]) {
-                j += 1;
+        for (int s = 0; s < n - m + 1; s++) {
+            int f = 0;
+            while (f < m && needle.toCharArray()[f] == haystack.toCharArray()[s + f]) {
+                f++;
             }
-
-            if (j == m) {
-                return i;
+            if (f == m) {
+                return s;
             }
         }
         return -1;

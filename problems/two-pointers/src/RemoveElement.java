@@ -1,12 +1,12 @@
 class RemoveElement {
     public int removeElement(int[] nums, int val) {
-        int write = 0;
-        for (int read = 0; read < nums.length; read++) {
-            if (nums[read] != val) {
-                nums[write] = nums[read];
-                write++;
+        int s = 0;
+        for (int f = 0; f < nums.length; f++) {
+            if (nums[f] != val) {
+                nums[s] = nums[f];
+                s++;
             }
         }
-        return write;
+        return s;
     }
 }
