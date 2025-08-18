@@ -33,6 +33,6 @@ An algorithm is a step-by-step set of instructions or rules designed to solve a 
 ------------------------------------------------------------------------
 
 ## 💪 Exercises
-| Algorithm                              | Solved                                                                                                                                                                       |                        Status                         |
-|:---------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|
-| [Two pointers](/problems/two-pointers) | ![License](https://img.shields.io/badge/3/4-Easy-greenblue) ![License](https://img.shields.io/badge/0/0-Medium-orange) ![License](https://img.shields.io/badge/0/0-Hard-red) | ![License](https://img.shields.io/badge/Doing-orange) |
+| Algorithm                             | Solved                                                                                                                                                                       |                        Status                         |
+|:--------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|
+| [Two pointers](problems/two-pointers) | ![License](https://img.shields.io/badge/3/8-Easy-greenblue) ![License](https://img.shields.io/badge/0/0-Medium-orange) ![License](https://img.shields.io/badge/0/0-Hard-red) | ![License](https://img.shields.io/badge/Doing-orange) |
