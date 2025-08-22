@@ -1,5 +1,4 @@
-# Two pointers
-[⬅️ Go back](../..)
+![Two pointers](docs/assets/two-pointers.png)
 
 ## 🔍 What is the Two Pointers Algorithm?
 The **Two Pointers** technique uses two indices to traverse a data
@@ -61,7 +60,7 @@ def two_sum(nums, target):
 | Problem                                                                                                                                                                                        | Difficulty                                              | Complexity |                         Status                          |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------|-----------:|:-------------------------------------------------------:|
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                                                                       | ![License](https://img.shields.io/badge/Easy-greenblue) |       O(n) | ![License](https://img.shields.io/badge/Done-greenblue) |
-| [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=two-pointers)                                                                         | ![License](https://img.shields.io/badge/Easy-greenblue) |       O(n) |   ![License](https://img.shields.io/badge/Done-greenblue)    |
+| [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=two-pointers)                                                                         | ![License](https://img.shields.io/badge/Easy-greenblue) |       O(n) | ![License](https://img.shields.io/badge/Done-greenblue) |
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=two-pointers) | ![License](https://img.shields.io/badge/Easy-greenblue) |   O(n * m) |   ![License](https://img.shields.io/badge/Todo-gray)    |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=two-pointers)                                                                 | ![License](https://img.shields.io/badge/Easy-greenblue) |   O(n + m) |   ![License](https://img.shields.io/badge/Todo-gray)    |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=two-pointers)                                                                     | ![License](https://img.shields.io/badge/Easy-greenblue) |       O(n) |   ![License](https://img.shields.io/badge/Todo-gray)    |
