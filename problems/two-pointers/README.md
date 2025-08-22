@@ -6,16 +6,12 @@ structure (like arrays, strings, or linked lists). Instead of nested
 loops, it moves pointers intelligently to achieve faster solutions,
 often reducing complexity from **O(n²) → O(n)**.
 
-------------------------------------------------------------------------
-
 ## 🎯 Pointer Setups
 
 1.  **Opposite Ends** → One pointer at the start, the other at the end
     (e.g., pair sum in sorted array).
 2.  **Same Direction** → Both start at the beginning, moving at
     different speeds (e.g., cycle detection, sliding window).
-
-------------------------------------------------------------------------
 
 ## 📌 Common Use Cases
 
@@ -25,8 +21,6 @@ often reducing complexity from **O(n²) → O(n)**.
     window problems.
 -   Linked Lists: Detect cycles, find middle node.
 -   Partitioning: Dutch National Flag problem (sorting 0s, 1s, 2s).
-
-------------------------------------------------------------------------
 
 ## 🧩 Example -- Two Sum in a Sorted Array
 
@@ -45,15 +39,11 @@ def two_sum(nums, target):
 
 ✅ Runs in **O(n)** instead of **O(n²)**.
 
-------------------------------------------------------------------------
-
 ## 🚀 Key Benefits
 
 -   **Efficiency**: Cuts down unnecessary iterations.
 -   **Simplicity**: Straightforward once recognized.
 -   **Versatility**: Works for arrays, strings, and linked lists.
-
-------------------------------------------------------------------------
 
 ## 💪 Exercises
 
