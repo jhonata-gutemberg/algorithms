@@ -1,4 +1,4 @@
-![Algorithms](assets/algorithms.png)
+![Algorithms](docs/assets/algorithms.png)
 
 ## 🧠 What Is an Algorithm?
 An algorithm is a step-by-step set of instructions or rules designed to solve a problem or perform a task. Think of it like a recipe: just as a recipe tells you how to make a dish, an algorithm tells a computer (or person) how to achieve a specific goal.
