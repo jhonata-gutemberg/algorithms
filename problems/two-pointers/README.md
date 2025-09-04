@@ -1,6 +1,6 @@
 ![Two pointers](docs/assets/two-pointers.png)
 
-## 🔍 What is the Two Pointers Algorithm?
+## 🧠 What is the Two Pointers Algorithm?
 The **Two Pointers** technique uses two indices to traverse a data
 structure (like arrays, strings, or linked lists). Instead of nested
 loops, it moves pointers intelligently to achieve faster solutions,
