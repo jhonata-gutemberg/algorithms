@@ -25,6 +25,7 @@ An algorithm is a step-by-step set of instructions or rules designed to solve a 
 - Cryptography relies on algorithms to secure data.
 
 ## 💪 Exercises
-| Algorithm                             | Solved                                                                                                                                                                       |                        Status                         |
-|:--------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|
-| [Two pointers](problems/two-pointers) | ![License](https://img.shields.io/badge/8/8-Easy-greenblue) ![License](https://img.shields.io/badge/0/6-Medium-orange) ![License](https://img.shields.io/badge/0/0-Hard-red) | ![License](https://img.shields.io/badge/Doing-orange) |
+| Algorithm                                   | Solved                                                                                                                                                                       |                        Status                         |
+|:--------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|
+| [Two pointers](problems/two-pointers)       | ![License](https://img.shields.io/badge/8/8-Easy-greenblue) ![License](https://img.shields.io/badge/0/5-Medium-orange) ![License](https://img.shields.io/badge/0/0-Hard-red) | ![License](https://img.shields.io/badge/Doing-orange) |
+| [Sliding windows](problems/sliding-windows) | ![License](https://img.shields.io/badge/0/0-Easy-greenblue) ![License](https://img.shields.io/badge/0/1-Medium-orange) ![License](https://img.shields.io/badge/0/0-Hard-red) | ![License](https://img.shields.io/badge/Todo-orange)  |
